@@ -1,0 +1,3 @@
+[submodule ".janus/python-mode"]
+	path = .janus/python-mode
+	url = https://github.com/klen/python-mode
