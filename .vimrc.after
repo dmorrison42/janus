@@ -1,3 +1,4 @@
 set rnu
 set hidden
+set mouse=a
 colorscheme Tomorrow-Night
