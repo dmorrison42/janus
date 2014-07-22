@@ -2,3 +2,4 @@ set rnu
 set hidden
 set mouse=a
 colorscheme Tomorrow-Night
+hi Normal   ctermbg=none
