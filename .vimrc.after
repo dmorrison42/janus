@@ -4,3 +4,4 @@ set mouse=a
 colorscheme Tomorrow-Night
 hi Normal ctermfg=252 ctermbg=none
 hi LineNr ctermfg=gray
+map bb :b#<cr>
